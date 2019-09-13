@@ -1,6 +1,6 @@
 class Test{  
     public static void main(String args[]){  
      System.out.println("Hello World ***1231231*****************");
-     System.out.println("GGKFSKFSKFSK>>>>>>>>>>>>>>>>>>>>>>>>>>>");  
+     System.out.println("Welcome Phrases .....>>>>>>>>>>>>>>>>>");  
     }  
 }  
